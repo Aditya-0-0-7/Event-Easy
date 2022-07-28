@@ -1,7 +1,10 @@
+Introduction
+
 Today events are part of life whether it is small society festival event or large college fest event. Managing these events was always the difficult task to achieve. Today event organizing is more than 100 billion industry but still planning for the events is performed using old days strategies. If we look for technological advancements in this field we find that there are no or very less advancements that were made. There is a need for some technical solution to allow easy event planning.
 The aim of this project is to provide a technical way to efficiently plan group events. Here with the group events we mean, events where large number of people are part of event for example college fests and society festival celebrations, etc. In this application the main idea that is used is the “choice of majority matters”. For every decision regarding event, organizer launches a poll to which participants give their choices. The choice which is selected by majority of people gets finalised. The application also allow consencus on cost so organizer can not charge wrong cost from participants. Event agreement security is ensured using block chain.
 
 SNAPSHOTS
+
 ![image](https://user-images.githubusercontent.com/105495413/181431937-1e144e43-ea79-4c86-8bdb-bdd6b18bc1e8.png)
 
 Welcome Page
@@ -10,7 +13,7 @@ Welcome Page
 
 Google login
 
-![image](https://user-images.githubusercontent.com/105495413/181432002-0bcf7d80-46b2-4323-818f-991406d7a27d.png)
+![image](https://user-images.githubusercontent.com/105495413/181437359-f5fdcd0f-f054-44e9-921c-7ffafa84b937.png)
 
 Create Event
 
@@ -26,7 +29,7 @@ Create Event
 
 Join Event
 
-![image](https://user-images.githubusercontent.com/105495413/181432444-3bb95616-c841-456e-95ce-ebba4fa87087.png)
+![image](https://user-images.githubusercontent.com/105495413/181437535-f3fc3c17-16ab-4087-99f9-8e91864a879a.png)
 
 Join Event
 
